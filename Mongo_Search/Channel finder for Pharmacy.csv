@@ -1,0 +1,240 @@
+,code,source,report,mraw,mstd
+0,AE,Mass,MW,TOTAL PHARMACY,Pharmacy
+1,TR,Mass,FAA,Total Pharmacy/TR,Pharmacy
+2,TR,Mass,BSP,Total Pharmacy/TR,Pharmacy
+3,TR,Mass,MW,Total Pharmacy/TR,Pharmacy
+4,TR,Mass,SHW,Total Pharmacy/TR,Pharmacy
+5,TR,Mass,FRM,Total Pharmacy/TR,Pharmacy
+6,KW,Mass,BT,PHARMACIES,Pharmacy
+7,KW,Mass,BW,PHARMACIES,Pharmacy
+8,KW,Mass,FM,PHARMACIES,Pharmacy
+9,KW,Mass,HM,PHARMACIES,Pharmacy
+10,KW,Mass,LN,PHARMACIES,Pharmacy
+11,KW,Mass,MW,PHARMACIES,Pharmacy
+12,EG,Mass,ABM,PHARMACIES,Pharmacy
+13,KW,Mass,FRM,PHARMACIES,Pharmacy
+14,KW,Mass,FT,PHARMACIES,Pharmacy
+15,EG,Mass,BT,PHARMACIES,Pharmacy
+16,MX,Mass,ABM,FARMACIAS DE CADENA SIN MS Y FARMACIAS I,Pharmacy
+17,TR,Mass,FC,Total Pharmacy/TR,Pharmacy
+18,MX,Mass,MW,FARMACIAS DE CADENA SIN MS Y FARMACIAS I,Pharmacy
+19,BR,Mass,TM,T. BRAZIL PHARMA,Pharmacy
+20,BR,Mass,MW,T. BRAZIL PHARMA,Pharmacy
+21,BR,Mass,LN,T. BRAZIL PHARMA,Pharmacy
+22,BR,Mass,SP,T. BRAZIL PHARMA,Pharmacy
+23,BR,Mass,NPK,T. BRAZIL PHARMA,Pharmacy
+24,BR,Mass,SHW,T. BRAZIL PHARMA,Pharmacy
+25,BR,Mass,ABM,T. BRAZIL PHARMA,Pharmacy
+26,BR,Mass,FT,T. BRAZIL PHARMA,Pharmacy
+27,BR,Mass,FRM,T. BRAZIL PHARMA,Pharmacy
+28,BR,Mass,FC,T. BRAZIL PHARMA,Pharmacy
+29,BR,Mass,FAA,T. BRAZIL PHARMA,Pharmacy
+30,BR,Mass,BSP,T. BRAZIL PHARMA,Pharmacy
+31,BR,Mass,BW,T. BRAZIL PHARMA,Pharmacy
+32,BR,Mass,BT_HC,T. BRAZIL PHARMA,Pharmacy
+33,BR,Mass,BT_NC,T. BRAZIL PHARMA,Pharmacy
+34,BR,Mass,BT_CL,T. BRAZIL PHARMA,Pharmacy
+35,EG,Mass,BW,PHARMACIES,Pharmacy
+36,KW,Mass,ABM,PHARMACIES,Pharmacy
+37,EG,Mass,FC,PHARMACIES,Pharmacy
+38,KW,Mass,FC,PHARMACIES,Pharmacy
+39,EG,Mass,FRM,PHARMACIES,Pharmacy
+40,SA,Mass,ABM,PHARMACIES,Pharmacy
+41,AE,Mass,FC,TOTAL PHARMACIES,Pharmacy
+42,SA,Mass,BT,PHARMACIES,Pharmacy
+43,SA,Mass,BW,PHARMACIES,Pharmacy
+44,SA,Mass,FC,PHARMACIES,Pharmacy
+45,AE,Mass,FT,TOTAL PHARMACIES,Pharmacy
+46,SA,Mass,FRM,PHARMACIES,Pharmacy
+47,AE,Mass,HM,TOTAL PHARMACIES,Pharmacy
+48,SA,Mass,FT,PHARMACIES,Pharmacy
+49,AE,Mass,LN,TOTAL PHARMACIES,Pharmacy
+50,SA,Mass,FM,PHARMACIES,Pharmacy
+51,AE,Mass,SHW,TOTAL PHARMACY,Pharmacy
+52,SA,Mass,HM,PHARMACIES,Pharmacy
+53,SA,Mass,LN,PHARMACIES,Pharmacy
+54,SA,Mass,MW,PHARMACIES,Pharmacy
+55,RU,Mass,LN,National Urban Pharmacies,Pharmacy
+56,SA,Mass,SHW,PHARMACIES,Pharmacy
+57,RU,Mass,MW,16 cities Pharmacies,Pharmacy
+58,RU,Mass,SHW,National Urban Pharmacies,Pharmacy
+59,RO,Mass,BW,PHARMACIES & COSMETICS,Pharmacy
+60,RO,Mass,CND,PHARMA/COSMETICS,Pharmacy
+61,RO,Mass,SHW,PHARMA/COSMETICS,Pharmacy
+62,RO,Mass,RSM,PHARMA/COSMETICS,Pharmacy
+63,RU,Mass,RSM,National Urban Pharmacies,Pharmacy
+64,RU,Mass,BW,16 cities Pharmacies,Pharmacy
+65,AE,Mass,ABM,TOTAL PHARMACIES,Pharmacy
+66,AE,Mass,BT,TOTAL PHARMACY,Pharmacy
+67,AE,Mass,FM,TOTAL PHARMACIES,Pharmacy
+68,RU,Mass,BT,16 cities Pharmacies,Pharmacy
+69,RU,Mass,TM,National Urban Pharmacies,Pharmacy
+70,TR,Mass,ABM,Total Pharmacy/TR,Pharmacy
+71,TR,Mass,BW,Total Pharmacy/TR,Pharmacy
+72,TR,Mass,BT,Total Pharmacy/TR,Pharmacy
+73,MX,Mass,BT_BC,FARMACIAS DE CADENA SIN MS Y FARMACIAS I,Pharmacy
+74,MX,Mass,BT_BSP,FARMACIAS DE CADENA SIN MS Y FARMACIAS I,Pharmacy
+75,MX,Mass,BT_LC,FARMACIAS DE CADENA SIN MS Y FARMACIAS I,Pharmacy
+76,MX,Mass,BT_HC,FARMACIAS DE CADENA SIN MS Y FARMACIAS I,Pharmacy
+77,TR,Mass,LSP,Total Pharmacy/TR,Pharmacy
+78,RU,Mass,BSP,National Urban Pharmacies,Pharmacy
+79,RU,Mass,LSP,National Urban Pharmacies,Pharmacy
+80,RU,Mass,NPK,National Urban Pharmacies,Pharmacy
+81,AE,Mass,FRM,TOTAL PHARMACIES,Pharmacy
+82,KW,Mass,RSM,PHARMACIES,Pharmacy
+83,RU,Mass,FAA,National Urban Pharmacies,Pharmacy
+84,RU,Mass,FRM,National Urban Pharmacies,Pharmacy
+85,RU,Mass,FC,National Urban Pharmacies,Pharmacy
+86,SA,Mass,FAA,PHARMACIES,Pharmacy
+87,DE,Pharmacy,SC,Apotheken Offizin,Pharmacy
+88,DE,Pharmacy,ORT,Apotheken Offizin,Pharmacy
+89,DE,Pharmacy,AA,Apotheken Offizin,Pharmacy
+90,DE,Pharmacy,ALL,Apotheken Offizin,Pharmacy
+91,DE,Pharmacy,LAX,Apotheken Offizin,Pharmacy
+92,DE,Pharmacy,HRG,Apotheken Offizin,Pharmacy
+93,AU,Mass,ALL,Australia Pharmacy,Pharmacy
+94,AU,Mass,ABM,Australia Pharmacy,Pharmacy
+95,AU,Mass,MW,Australia Pharmacy,Pharmacy
+96,AU,Mass,LN,Australia Pharmacy,Pharmacy
+97,AU,Mass,BT,Australia Pharmacy,Pharmacy
+98,AU,Mass,FT,Australia Pharmacy,Pharmacy
+99,AU,Mass,FAA,Australia Pharmacy,Pharmacy
+100,AU,Mass,FRM,Australia Pharmacy,Pharmacy
+101,AU,Mass,CAF,Australia Pharmacy,Pharmacy
+102,AU,Mass,CO,Australia Pharmacy,Pharmacy
+103,AU,Mass,FM,Australia Pharmacy,Pharmacy
+104,IT,Pharmacy,LIP,PHARMA,Pharmacy
+105,IT,Pharmacy,ITCH,PHARMA,Pharmacy
+106,IT,Pharmacy,ALL,PHARMA,Pharmacy
+107,AU,Mass,ADB,Australia Pharmacy,Pharmacy
+108,NZ,Mass,ABM,New Zealand Pharmacy,Pharmacy
+109,AU,Mass,TM,Australia Pharmacy,Pharmacy
+110,NZ,Mass,CAF,New Zealand Pharmacy,Pharmacy
+111,AU,Mass,PDC,Australia Pharmacy,Pharmacy
+112,AU,Mass,SC,Australia Pharmacy,Pharmacy
+113,NZ,Mass,SC,New Zealand Pharmacy,Pharmacy
+114,AU,Mass,SP,Australia Pharmacy,Pharmacy
+115,AU,Mass,NPK,Australia Pharmacy,Pharmacy
+116,AU,Mass,HM,Australia Pharmacy,Pharmacy
+117,AU,Mass,DC,Australia Pharmacy,Pharmacy
+118,AU,Mass,FC,Australia Pharmacy,Pharmacy
+119,NZ,Mass,SP,New Zealand Pharmacy,Pharmacy
+120,NZ,Mass,HM,New Zealand Pharmacy,Pharmacy
+121,NZ,Mass,FM,New Zealand Pharmacy,Pharmacy
+122,NZ,Mass,DC,New Zealand Pharmacy,Pharmacy
+123,NZ,Mass,CO,New Zealand Pharmacy,Pharmacy
+124,KW,Mass,CND,PHARMACIES,Pharmacy
+125,KW,Mass,HTR,PHARMACIES,Pharmacy
+126,DE,Pharmacy,DC,Apotheken Offizin,Pharmacy
+127,DE,Pharmacy,ADR,Apotheken Offizin,Pharmacy
+128,IT,Pharmacy,GAS,PHARMA,Pharmacy
+129,IT,Pharmacy,BW,PHARMA,Pharmacy
+130,IT,Pharmacy,ABM,PHARMA,Pharmacy
+131,IT,Pharmacy,CAF,PHARMA,Pharmacy
+132,IT,Pharmacy,DC,PHARMA,Pharmacy
+133,IT,Pharmacy,ADR,PHARMA,Pharmacy
+134,IT,Pharmacy,LAX,PHARMA,Pharmacy
+135,IT,Pharmacy,HM,PHARMA,Pharmacy
+136,IT,Pharmacy,FM,PHARMA,Pharmacy
+137,IT,Pharmacy,MW,PHARMA,Pharmacy
+138,IT,Pharmacy,SP,PHARMA,Pharmacy
+139,IT,Pharmacy,AFSN,PHARMA,Pharmacy
+140,IT,Pharmacy,BSKN,PHARMA,Pharmacy
+141,IT,Pharmacy,AFS,PHARMA,Pharmacy
+142,IT,Pharmacy,SC,PHARMA,Pharmacy
+143,IT,Pharmacy,BSP,PHARMA,Pharmacy
+144,IT,Pharmacy,LSP,PHARMA,Pharmacy
+145,IT,Pharmacy,FRM,PHARMA,Pharmacy
+146,IT,Pharmacy,FC,PHARMA,Pharmacy
+147,IT,Pharmacy,SHW,PHARMA,Pharmacy
+148,IT,Pharmacy,BT,PHARMA,Pharmacy
+149,FI,Pharmacy,ADR,Hospital/Primary care,Pharmacy
+150,FI,Pharmacy,ADR,Pharmacy,Pharmacy
+151,FI,Pharmacy,LAX,Hospital/Primary care,Pharmacy
+152,FI,Pharmacy,LAX,Pharmacy,Pharmacy
+153,FI,Pharmacy,ST,Hospital/Primary care,Pharmacy
+154,FI,Pharmacy,ST,Pharmacy,Pharmacy
+155,FI,Pharmacy,ALL,Hospital/Primary care,Pharmacy
+156,FI,Pharmacy,ALL,Pharmacy,Pharmacy
+157,FI,Pharmacy,AR,Hospital/Primary care,Pharmacy
+158,FI,Pharmacy,AR,Pharmacy,Pharmacy
+159,FI,Pharmacy,HRG,Hospital/Primary care,Pharmacy
+160,FI,Pharmacy,HRG,Pharmacy,Pharmacy
+161,FI,Pharmacy,SC,Hospital/Primary care,Pharmacy
+162,FI,Pharmacy,SC,Pharmacy,Pharmacy
+163,SE,Mass,GAS,TOTAL PHARMACIES,Pharmacy
+164,SE,Mass,HRG,TOTAL PHARMACIES,Pharmacy
+165,CZ,Pharmacy,ADR,NATIONALPHARMACY,Pharmacy
+166,CZ,Pharmacy,DC,NATIONALPHARMACY,Pharmacy
+167,CZ,Pharmacy,SC,NATIONALPHARMACY,Pharmacy
+168,TR,Mass,HM,Total Pharmacy/TR,Pharmacy
+169,TR,Mass,FM,Total Pharmacy/TR,Pharmacy
+170,AE,Mass,FAA,TOTAL PHARMACIES,Pharmacy
+171,PT,Pharmacy,AR,Pharmacy,Pharmacy
+172,PT,Pharmacy,CAF,Pharmacy,Pharmacy
+173,PT,Pharmacy,DC,Pharmacy,Pharmacy
+174,PT,Pharmacy,BSKN,Pharmacy,Pharmacy
+175,PT,Pharmacy,AFSN,Pharmacy,Pharmacy
+176,PT,Pharmacy,FM,Pharmacy,Pharmacy
+177,PT,Pharmacy,HM,Pharmacy,Pharmacy
+178,PT,Pharmacy,LIP,Pharmacy,Pharmacy
+179,PT,Pharmacy,SP,Pharmacy,Pharmacy
+180,PT,Pharmacy,BT,Pharmacy,Pharmacy
+181,PT,Pharmacy,FRM,Pharmacy,Pharmacy
+182,PT,Pharmacy,SC,Pharmacy,Pharmacy
+183,PT,Pharmacy,FC,Pharmacy,Pharmacy
+184,PT,Pharmacy,ADR,Pharmacy,Pharmacy
+185,CH,Pharmacy,ANS,APO,Pharmacy
+186,CH,Pharmacy,ADR,APO,Pharmacy
+187,IZ,Pharmacy,ABM,PHARMA,Pharmacy
+188,IZ,Pharmacy,ADR,PHARMA,Pharmacy
+189,IZ,Pharmacy,AFS,PHARMA,Pharmacy
+190,IZ,Pharmacy,AFSN,PHARMA,Pharmacy
+191,IZ,Pharmacy,ALL,PHARMA,Pharmacy
+192,IZ,Pharmacy,BSKN,PHARMA,Pharmacy
+193,IZ,Pharmacy,BSP,PHARMA,Pharmacy
+194,IZ,Pharmacy,BT,PHARMA,Pharmacy
+195,IZ,Pharmacy,BW,PHARMA,Pharmacy
+196,IZ,Pharmacy,CAF,PHARMA,Pharmacy
+197,IZ,Pharmacy,DC,PHARMA,Pharmacy
+198,IZ,Pharmacy,FC,PHARMA,Pharmacy
+199,IZ,Pharmacy,FM,PHARMA,Pharmacy
+200,IZ,Pharmacy,FRM,PHARMA,Pharmacy
+201,IZ,Pharmacy,GAS,PHARMA,Pharmacy
+202,IZ,Pharmacy,HM,PHARMA,Pharmacy
+203,IZ,Pharmacy,ITCH,PHARMA,Pharmacy
+204,IZ,Pharmacy,LAX,PHARMA,Pharmacy
+205,IZ,Pharmacy,LIP,PHARMA,Pharmacy
+206,IZ,Pharmacy,LSP,PHARMA,Pharmacy
+207,IZ,Pharmacy,MW,PHARMA,Pharmacy
+208,IZ,Pharmacy,SC,PHARMA,Pharmacy
+209,IZ,Pharmacy,SHW,PHARMA,Pharmacy
+210,IZ,Pharmacy,SP,PHARMA,Pharmacy
+211,PT,Pharmacy,SHW,Pharmacy,Pharmacy
+212,PT,Pharmacy,ALL,Pharmacy,Pharmacy
+213,PT,Pharmacy,ABM,Pharmacy,Pharmacy
+214,TW,Mass,MW,PHARMACY,Pharmacy
+215,DK,Pharmacy,AA,Pharmacy,Pharmacy
+216,DK,Pharmacy,AFS,Pharmacy,Pharmacy
+217,DK,Pharmacy,ADR,Pharmacy,Pharmacy
+218,DK,Pharmacy,ALL,Pharmacy,Pharmacy
+219,DK,Pharmacy,CO,Pharmacy,Pharmacy
+220,DK,Pharmacy,GAS,Pharmacy,Pharmacy
+221,DK,Pharmacy,LAX,Pharmacy,Pharmacy
+222,DK,Pharmacy,HRG,Pharmacy,Pharmacy
+223,RS,Pharmacy,SC,PHARMACY,Pharmacy
+224,RS,Pharmacy,ED,PHARMACY,Pharmacy
+225,RS,Pharmacy,DC,PHARMACY,Pharmacy
+226,BG,Pharmacy,SC,PHARMACY,Pharmacy
+227,BG,Pharmacy,SC,PHARMACY WAREHOUSES,Pharmacy
+228,BG,Pharmacy,ED,PHARMACY,Pharmacy
+229,BG,Pharmacy,ED,PHARMACY WAREHOUSES,Pharmacy
+230,BG,Pharmacy,ADR,PHARMACY,Pharmacy
+231,BG,Pharmacy,ADR,PHARMACY WAREHOUSES,Pharmacy
+232,BG,Pharmacy,DC,PHARMACY,Pharmacy
+233,BG,Pharmacy,DC,PHARMACY WAREHOUSES,Pharmacy
+234,BG,Pharmacy,ST,PHARMACY,Pharmacy
+235,BG,Pharmacy,ST,PHARMACY WAREHOUSES,Pharmacy
+236,SI,Pharmacy,DC,Pharmacy,Pharmacy
+237,SI,Pharmacy,ED,Pharmacy,Pharmacy
+238,SI,Pharmacy,SC,Pharmacy,Pharmacy
