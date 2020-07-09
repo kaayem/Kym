@@ -5,8 +5,8 @@ echo.
 echo.
 echo Hi Kaayem What are you working on?
 echo ================
-echo 1. GSR 
-echo 2. MM query
+echo 1. MM query 
+echo 2. GSR
 echo 3. MM setup checks
 echo 4. quit
 echo.
@@ -27,14 +27,18 @@ pause
 GOTO start
 
 :LE_A
-echo This still needs to be developed
+cd Mongo_Search
+python MongoSearch.py
 pause
 GOTO start
 
 :LE_B
 echo well edit it then you idiot
+cd Mongo_Search
+Config.xlsx
+cd ..
 pause
-exit
+GOTO start
 
 
 :NUM_2
