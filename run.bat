@@ -34,7 +34,6 @@ GOTO start
 
 :LE_B
 echo well edit it then you idiot
-cd Mongo_Search
 Config.xlsx
 cd ..
 pause

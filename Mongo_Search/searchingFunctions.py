@@ -23,9 +23,10 @@ def brandSearch (dict):
     
     #print(df)
     name= 'Brand finder for '+BRD+'.csv'
-    df.to_csv(name)
-    print(" CSV outputted to", os.getcwd())
-    return
+    #df.to_csv(name)
+    #print(" CSV outputted to", os.getcwd())
+    d = {'name':name, 'df':df}
+    return d
   
 
 def ChannelSearch(dict):
@@ -45,10 +46,10 @@ def ChannelSearch(dict):
     df = df.reindex(columns = index)
     #print(df)
     name= 'Channel finder for '+CH+'.csv'
-    df.to_csv(name)
-
-    print(" CSV outputted to", os.getcwd())
-    return
+    #df.to_csv(name)
+    #print(" CSV outputted to", os.getcwd())
+    d = {'name':name, 'df':df}
+    return d
     
 def MNFSearch(dict):
     db = mongoCon.AttDB()
@@ -67,10 +68,10 @@ def MNFSearch(dict):
     df = df.reindex(columns = index)
     #print(df)
     name= 'Manufacturer finder for'+MNF+'.csv'
-    df.to_csv(name)
-
-    print(" CSV outputted to", os.getcwd())
-    return
+    #df.to_csv(name)
+    #print(" CSV outputted to", os.getcwd())
+    d = {'name':name, 'df':df}
+    return d
    
 def MetricSearch(dict): 
     db = mongoCon.AttDB() 
@@ -89,10 +90,10 @@ def MetricSearch(dict):
     df = df.reindex(columns = index)
     #print(df)
     name= 'Metric finder for '+MET+'.csv'
-    df.to_csv(name)
-
-    print(" CSV of all metrics you are that are mapped has been outputted to", os.getcwd())
-    return
+    #df.to_csv(name)
+    #print(" CSV outputted to", os.getcwd())
+    d = {'name':name, 'df':df}
+    return d
 def SegSearch(dict): 
     db = mongoCon.AttDB()  
     SEG = dict['segment']
@@ -110,11 +111,19 @@ def SegSearch(dict):
     df = df.reindex(columns = index)
     #print(df)
     name= 'Segment finder for '+SEG+'.csv'
-    df.to_csv(name)
-
-    print(" CSV of all metrics you are that are mapped has been outputted to", os.getcwd())
-    return
+    #df.to_csv(name)
+    #print(" CSV outputted to", os.getcwd())
+    d = {'name':name, 'df':df}
+    return d
     
 def functionDict ():
     Dict1 = { 'brandSearch': brandSearch, 'ChannelSearch':ChannelSearch, 'MNFSearch':MNFSearch, 'MetricSearch':MetricSearch,'SegSearch':SegSearch}
     return Dict1
+    
+def csvreturn(dst,name,df):
+    if dst == 'print':
+        print(df)
+        return
+    df.to_csv(os.path.join(dst,name))
+    print(" CSV outputted to", dst)
+    return

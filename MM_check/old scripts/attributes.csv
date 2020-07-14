@@ -1,0 +1,12 @@
+raw,ABM,ADR,AFS,AFSN,ALL,BSKN,BSP,BT,BW,CAF,DC,FC,FM,FRM,GAS,HM,ITCH,LAX,LIP,LSP,MW,SC,SHW,SP
+Brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand,brand
+Channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel,channel
+Company,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer,manufacturer
+Level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level,level
+Metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric,metric
+PROD_ITEM,ean,ean,ean,ean,ean,ean,ean,ean,ean,ean,,,ean,ean,,ean,ean,,ean,,ean,,,ean
+Pharmaceutical form,,,,,,,,,,,,,,,,,,,,,,segment,,
+Prodotto,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product,product
+Sub Brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand,sub_brand
+Sub category,,,,,,,,segment,,,,,,,,,,,,,,,,
+Tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag,tag
