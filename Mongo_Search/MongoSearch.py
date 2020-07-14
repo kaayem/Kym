@@ -5,7 +5,7 @@ import ConfigReader
 import mongoCon
 import searchingFunctions
 
-path = 'C:/Users/Kaayem/Documents/Python/Kym/Mongo_Search'
+path = 'C:/Users/Kaayem/Documents/Python/Kym'
 
 config = ConfigReader.read_config(path)
 Query = pd.DataFrame.to_dict(config['MMsearch'],orient='record')
